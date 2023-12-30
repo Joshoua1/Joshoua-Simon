@@ -87,7 +87,6 @@ Virtual Intern AICTE • Pune, Maharashtra (05/2023 - 07/2023)
 
 Internship Student YBI Internship • Pune, Maharashtra (02/2023 - 03/2023)
 ##### *Certificates*
-Joshoua Simon • simjoshoua23@gmail.com / 7389597240 / Pune, Maharashtra
 HakerRank sql basic, CDAC AR/VR Certification, Hakerank Problem-Solving, AWS Academy Machine Learning Foundations, AWS Academy Cloud Foundations, nasscom AR/VR Certification
 ##### *Awards*
 Blog Writing Competition
